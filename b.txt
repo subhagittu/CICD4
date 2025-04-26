@@ -1,3 +1,6 @@
 It is B
 
+<<<<<<< HEAD
 edited in car branch
+edited in bike branch
+>>>>>>> bike
